@@ -1,6 +1,6 @@
 ## Hi, I'm Tiffany 👋
 
-### 🔥 About Me  
+### About Me  
 - 💡 Passionate about **Cybersecurity, Frontend Development, and Software Engineering**
 - 🌱 Currently learning **AI & Cloud Computing**
 - 🎵 Play the piano & enjoy extracurricular activities
